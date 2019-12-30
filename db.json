@@ -1,0 +1,79 @@
+{
+    "tematik":[
+        {
+            "id": 1,
+            "title": "Makhluk Hidup",
+            "original_title": "Pertumbuhan dan Perkembangan Makhluk Hidup",
+            "icon": "https://raw.githubusercontent.com/semicologne/kancaapp/master/icons/bunga.png",
+            "subtema": [
+                {
+                    "subtema_id": 1,
+                    "subtema_title": "Ciri-ciri Makhluk Hidup",
+                },
+                 {
+                    "subtema_id": 2,
+                    "subtema_title": "Pertumbuhan dan Perkembangan Manusia",
+                },
+                 {
+                    "subtema_id": 3,
+                    "subtema_title": "Pertumbuhan Hewan",
+                },
+                 {
+                    "subtema_id": 4,
+                    "subtema_title": "Pertumbuhan dan Perkembangan Tumbuhan",
+                }
+
+            ]
+        },
+         {
+            "id": 2,
+            "title": "Tumbuhan dan Hewan",
+            "original_title": "Menyayangi Tumbuhan dan Hewan",
+            "icon": "https://raw.githubusercontent.com/semicologne/kancaapp/master/icons/hewan.png",
+            "subtema": [
+                {
+                    "subtema_id": 1,
+                    "subtema_title": "Manfaat Tumbuhan bagi Kehidupan Manusia",
+                },
+                 {
+                    "subtema_id": 2,
+                    "subtema_title": "Manfaat Hewan bagi Kehidupan Manusia",
+                },
+                 {
+                    "subtema_id": 3,
+                    "subtema_title": "Menyayangi Tumbuhan",
+                },
+                 {
+                    "subtema_id": 4,
+                    "subtema_title": "Menyayangi Hewan",
+                }
+
+            ]
+        },
+         {
+            "id": 3,
+            "title": "Benda di Sekitarku",
+            "original_title": "Benda di Sekitarku",
+            "icon": "https://raw.githubusercontent.com/semicologne/kancaapp/master/icons/benda%20di%20sekitarku.png",
+            "subtema": [
+                {
+                    "subtema_id": 1,
+                    "subtema_title": "Aneka benda di Sekitarku",
+                },
+                 {
+                    "subtema_id": 2,
+                    "subtema_title": "Wujud Benda",
+                },
+                 {
+                    "subtema_id": 3,
+                    "subtema_title": "Perubahan Wujud Benda",
+                },
+                 {
+                    "subtema_id": 4,
+                    "subtema_title": "Keajaiban Perubahan wujud di Sekitarku",
+                }
+
+            ]
+        }
+    ]
+}
