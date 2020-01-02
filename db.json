@@ -74,6 +74,31 @@
                 }
 
             ]
+        },
+         {
+            "id": 4,
+            "title": "Hak dan Kewajibanku",
+            "original_title": "Hak dan Kewajibanku",
+            "icon": "https://raw.githubusercontent.com/semicologne/kancaapp/master/icons/keluargaku.png",
+            "subtema": [
+                {
+                    "subtema_id": 1,
+                    "subtema_title": "Aneka benda di Sekitarku"
+                },
+                 {
+                    "subtema_id": 2,
+                    "subtema_title": "Wujud Benda"
+                },
+                 {
+                    "subtema_id": 3,
+                    "subtema_title": "Perubahan Wujud Benda"
+                },
+                 {
+                    "subtema_id": 4,
+                    "subtema_title": "Keajaiban Perubahan wujud di Sekitarku"
+                }
+
+            ]
         }
     ]
 }
