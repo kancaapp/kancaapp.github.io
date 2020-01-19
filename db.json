@@ -4,7 +4,7 @@
             "id": 1,
             "title": "Makhluk Hidup",
             "original_title": "Pertumbuhan dan Perkembangan Makhluk Hidup",
-            "icon": "https://raw.githubusercontent.com/semicologne/kancaapp/master/icons/bunga.png",
+            "icon": "https://raw.githubusercontent.com/kancaapp/kancaapp/master/icons/bunga.png",
             "subtema": [
                 {
                     "subtema_id": 1,
@@ -29,7 +29,7 @@
             "id": 2,
             "title": "Tumbuhan dan Hewan",
             "original_title": "Menyayangi Tumbuhan dan Hewan",
-            "icon": "https://raw.githubusercontent.com/semicologne/kancaapp/master/icons/hewan.png",
+            "icon": "https://raw.githubusercontent.com/kancaapp/kancaapp/master/icons/hewan.png",
             "subtema": [
                 {
                     "subtema_id": 1,
@@ -54,7 +54,7 @@
             "id": 3,
             "title": "Benda di Sekitarku",
             "original_title": "Benda di Sekitarku",
-            "icon": "https://raw.githubusercontent.com/semicologne/kancaapp/master/icons/benda%20di%20sekitarku.png",
+            "icon": "https://raw.githubusercontent.com/kancaapp/kancaapp/master/icons/benda%20di%20sekitarku.png",
             "subtema": [
                 {
                     "subtema_id": 1,
@@ -79,7 +79,7 @@
             "id": 4,
             "title": "Hak dan Kewajibanku",
             "original_title": "Hak dan Kewajibanku",
-            "icon": "https://raw.githubusercontent.com/semicologne/kancaapp/master/icons/keluargaku.png",
+            "icon": "https://raw.githubusercontent.com/kancaapp/kancaapp/master/icons/keluargaku.png",
             "subtema": [
                 {
                     "subtema_id": 1,
